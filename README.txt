@@ -1,0 +1,1 @@
+﻿ADMIRAL CASINO — NAVIGACIJOS DENIS. Lietuva, lietuvių kalba. Nepriklausoma fizinės žaidimų salės koncepcija, ne oficiali operatoriaus svetainė. 23 puslapiai, 4 originalūs vaizdai. Prieš publikavimą patvirtinkite operatorių, licenciją, adresą, darbo laiką, paslaugas ir teisinius tekstus.
