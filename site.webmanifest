@@ -1,0 +1,16 @@
+{
+    "display":  "standalone",
+    "lang":  "lt-LT",
+    "icons":  [
+                  {
+                      "type":  "image/svg+xml",
+                      "sizes":  "any",
+                      "src":  "assets/favicon.svg"
+                  }
+              ],
+    "background_color":  "#f4f0e7",
+    "theme_color":  "#123c90",
+    "name":  "Admiral Casino — Navigacijos denis",
+    "start_url":  "/",
+    "short_name":  "Admiral Casino LT"
+}
